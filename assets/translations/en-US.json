@@ -1,0 +1,29 @@
+{
+  "appName": "Plan Viewer",
+  "error": {
+    "somethingWentWrong": "Something went wrong..."
+  },
+  "general": {
+    "noData": "No Data",
+    "allPlans": "All Plans",
+    "learnMore": "Learn more",
+    "limitedOffer": "LIMITED OFFER"
+  },
+  "descriptions": {
+    "choosePlan": "Choose from our range of insurance plans tailored to your needs. Browse through the options on the right to find the best plan for you."
+  },
+  "labels": {
+    "monthlyPremium": "Monthly Premium",
+    "coverageAmount": "Coverage Amount",
+    "deductible": "Deductible",
+    "maxClaimLimit": "Max Claim Limit"
+  },
+  "planDetails": {
+    "title": "Plan Details",
+    "description": "Plan Description",
+    "coverageTypes": "Coverage Types",
+    "exclusions": "Exclusions",
+    "claimProcessTime": "Claim Process Time: ${details.claimProcessTime}",
+    "planDuration": "Plan Duration: ${details.planDuration}"
+  }
+}
